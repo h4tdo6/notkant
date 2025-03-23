@@ -100,7 +100,7 @@
 
                         <!-- Member Bio -->
                         <div class="px-4 pb-4">
-                            <p class="font-semibold text-sm mb-1">42 likes</p>
+                            <p class="font-semibold text-sm mb-1">31 likes</p>
                             {{-- <p class="text-sm"><span class="font-semibold">Angie Lee P. Redubla</span> Exploring the categorical imperative through modern ethical dilemmas. #philosophy #kant</p> --}}
                             <p class="text-xs text-gray-500 mt-2">MARCH 23, 2025</p>
                         </div>
@@ -180,7 +180,7 @@
 
                         <!-- Member Bio -->
                         <div class="px-4 pb-4">
-                            <p class="font-semibold text-sm mb-1">42 likes</p>
+                            <p class="font-semibold text-sm mb-1">57 likes</p>
                             {{-- <p class="text-sm"><span class="font-semibold">Angie Lee P. Redubla</span> Exploring the categorical imperative through modern ethical dilemmas. #philosophy #kant</p> --}}
                             <p class="text-xs text-gray-500 mt-2">MARCH 23, 2025</p>
                         </div>
@@ -220,7 +220,7 @@
 
                         <!-- Member Bio -->
                         <div class="px-4 pb-4">
-                            <p class="font-semibold text-sm mb-1">42 likes</p>
+                            <p class="font-semibold text-sm mb-1">49 likes</p>
                             {{-- <p class="text-sm"><span class="font-semibold">Angie Lee P. Redubla</span> Exploring the categorical imperative through modern ethical dilemmas. #philosophy #kant</p> --}}
                             <p class="text-xs text-gray-500 mt-2">MARCH 23, 2025</p>
                         </div>
@@ -260,7 +260,7 @@
 
                         <!-- Member Bio -->
                         <div class="px-4 pb-4">
-                            <p class="font-semibold text-sm mb-1">42 likes</p>
+                            <p class="font-semibold text-sm mb-1">38 likes</p>
                             {{-- <p class="text-sm"><span class="font-semibold">Angie Lee P. Redubla</span> Exploring the categorical imperative through modern ethical dilemmas. #philosophy #kant</p> --}}
                             <p class="text-xs text-gray-500 mt-2">MARCH 23, 2025</p>
                         </div>
@@ -300,7 +300,7 @@
 
                         <!-- Member Bio -->
                         <div class="px-4 pb-4">
-                            <p class="font-semibold text-sm mb-1">42 likes</p>
+                            <p class="font-semibold text-sm mb-1">60 likes</p>
                             {{-- <p class="text-sm"><span class="font-semibold">Angie Lee P. Redubla</span> Exploring the categorical imperative through modern ethical dilemmas. #philosophy #kant</p> --}}
                             <p class="text-xs text-gray-500 mt-2">MARCH 23, 2025</p>
                         </div>
@@ -340,7 +340,7 @@
 
                         <!-- Member Bio -->
                         <div class="px-4 pb-4">
-                            <p class="font-semibold text-sm mb-1">42 likes</p>
+                            <p class="font-semibold text-sm mb-1">53 likes</p>
                             {{-- <p class="text-sm"><span class="font-semibold">Angie Lee P. Redubla</span> Exploring the categorical imperative through modern ethical dilemmas. #philosophy #kant</p> --}}
                             <p class="text-xs text-gray-500 mt-2">MARCH 23, 2025</p>
                         </div>
@@ -380,7 +380,7 @@
 
                         <!-- Member Bio -->
                         <div class="px-4 pb-4">
-                            <p class="font-semibold text-sm mb-1">42 likes</p>
+                            <p class="font-semibold text-sm mb-1">47 likes</p>
                             {{-- <p class="text-sm"><span class="font-semibold">Angie Lee P. Redubla</span> Exploring the categorical imperative through modern ethical dilemmas. #philosophy #kant</p> --}}
                             <p class="text-xs text-gray-500 mt-2">MARCH 23, 2025</p>
                         </div>
