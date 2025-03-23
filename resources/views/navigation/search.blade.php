@@ -9,8 +9,8 @@
             <!-- Posts Grid -->
             <div class="grid grid-cols-3 gap-1 mt-1">
                 <!-- Video 1 -->
-                <div class="aspect-square overflow-hidden cursor-pointer relative video-thumbnail" data-video-id="nsgAsw4XGvU">
-                    <img src="https://img.youtube.com/vi/nsgAsw4XGvU/maxresdefault.jpg" alt="YouTube Thumbnail" class="w-full h-full object-cover">
+                <div class="aspect-square overflow-hidden cursor-pointer relative video-thumbnail" data-video-id="byB4UpvRF8U">
+                    <img src="https://img.youtube.com/vi/byB4UpvRF8U/maxresdefault.jpg" alt="YouTube Thumbnail" class="w-full h-full object-cover">
                     <div class="absolute inset-0 flex items-center justify-center">
                         <div class="w-12 h-12 rounded-full bg-black bg-opacity-50 flex items-center justify-center">
                             <svg class="w-6 h-6 text-white" fill="currentColor" viewBox="0 0 24 24">
@@ -71,6 +71,42 @@
                 <!-- Video 6 -->
                 <div class="aspect-square overflow-hidden cursor-pointer relative video-thumbnail" data-video-id="qWAaHATg2wc">
                     <img src="https://img.youtube.com/vi/qWAaHATg2wc/maxresdefault.jpg" alt="YouTube Thumbnail" class="w-full h-full object-cover">
+                    <div class="absolute inset-0 flex items-center justify-center">
+                        <div class="w-12 h-12 rounded-full bg-black bg-opacity-50 flex items-center justify-center">
+                            <svg class="w-6 h-6 text-white" fill="currentColor" viewBox="0 0 24 24">
+                                <path d="M8 5v14l11-7z"></path>
+                            </svg>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Video 7 -->
+                <div class="aspect-square overflow-hidden cursor-pointer relative video-thumbnail" data-video-id="GQkxOQUI50M">
+                    <img src="https://img.youtube.com/vi/GQkxOQUI50M/maxresdefault.jpg" alt="YouTube Thumbnail" class="w-full h-full object-cover">
+                    <div class="absolute inset-0 flex items-center justify-center">
+                        <div class="w-12 h-12 rounded-full bg-black bg-opacity-50 flex items-center justify-center">
+                            <svg class="w-6 h-6 text-white" fill="currentColor" viewBox="0 0 24 24">
+                                <path d="M8 5v14l11-7z"></path>
+                            </svg>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Video 8 -->
+                <div class="aspect-square overflow-hidden cursor-pointer relative video-thumbnail" data-video-id="ZOoJ9Cq3oKM">
+                    <img src="https://img.youtube.com/vi/ZOoJ9Cq3oKM/default.jpg" alt="YouTube Thumbnail" class="w-full h-full object-cover">
+                    <div class="absolute inset-0 flex items-center justify-center">
+                        <div class="w-12 h-12 rounded-full bg-black bg-opacity-50 flex items-center justify-center">
+                            <svg class="w-6 h-6 text-white" fill="currentColor" viewBox="0 0 24 24">
+                                <path d="M8 5v14l11-7z"></path>
+                            </svg>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Video 9 -->
+                <div class="aspect-square overflow-hidden cursor-pointer relative video-thumbnail" data-video-id="wVjC3Zn8XC0">
+                    <img src="https://img.youtube.com/vi/wVjC3Zn8XC0/maxresdefault.jpg" alt="YouTube Thumbnail" class="w-full h-full object-cover">
                     <div class="absolute inset-0 flex items-center justify-center">
                         <div class="w-12 h-12 rounded-full bg-black bg-opacity-50 flex items-center justify-center">
                             <svg class="w-6 h-6 text-white" fill="currentColor" viewBox="0 0 24 24">

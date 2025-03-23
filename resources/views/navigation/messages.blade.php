@@ -46,7 +46,6 @@
                     <span class="text-xs text-center truncate w-16">Saint Thomas Aqu... </span>
                 </div>
 
-                <!-- Xin Li Story -->
                 <div class="flex flex-col items-center space-y-1 min-w-16">
                     <div class="relative">
                         <div class="bg-gradient-to-r from-pink-500 to-orange-500 rounded-full p-0.5">
@@ -59,19 +58,7 @@
         </div>
 
 
-        <!-- Tabs -->
-        <div class="flex border-b border-gray-800">
-            <!-- Tabs content -->
-            <button
-                class="flex-1 py-3 font-semibold border-b-2 border-white"
-                onclick="window.location.href='{{ route('direct.blank') }}'">
-                Messages
-            </button>
 
-            <button
-                class="flex-1 py-3 text-gray-500"
-                onclick="window.location.href='{{ route('requests.blank') }}">Requests</button>
-        </div>
 
         {{-- <!-- Tabs -->
         <div class="flex border-b border-gray-800">
@@ -119,7 +106,7 @@
             </a>
 
             {{-- for request tab --}}
-            {{-- <a href="{{ route('requests.plato') }}" class="block">
+            <a href="{{ route('requests.plato') }}" class="block">
                 <!-- Chat item 2 -->
                 <div class="flex items-center p-3 hover:bg-gray-500 cursor-pointer">
                     <div class="relative">
@@ -133,9 +120,9 @@
                         <p class="text-sm text-gray-400 truncate">Plato: Zup g?..</p>
                     </div>
                 </div>
-            </a> --}}
+            </a>
             {{-- for request tab --}}
-            {{-- <a href="{{ route('requests.socrates') }}" class="block">
+            <a href="{{ route('requests.socrates') }}" class="block">
                 <!-- Chat item 2 -->
                 <div class="flex items-center p-3 hover:bg-gray-500 cursor-pointer">
                     <div class="relative">
@@ -149,7 +136,7 @@
                         <p class="text-sm text-gray-400 truncate">Socrates: Hey bud!</p>
                     </div>
                 </div>
-            </a> --}}
+            </a>
         </div>
     </div>
     <!-- Main message content area -->
