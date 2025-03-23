@@ -1,8 +1,7 @@
 @extends('layout.main')
 
-@section('title', 'Search Page')
+@section('title', 'KantStopThinking - Search')
 
 @section('content')
-
 
 @endsection

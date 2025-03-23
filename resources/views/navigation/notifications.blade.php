@@ -1,6 +1,6 @@
 @extends('layout.main')
 
-@section('title', 'Noification Page')
+@section('title', 'KantStopThinking - Notifications')
 
 @section('content')
 

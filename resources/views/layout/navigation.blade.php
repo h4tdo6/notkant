@@ -1,5 +1,7 @@
 <div class="flex flex-col h-full">
-    <div class="pt-5 mb-8 text-4xl font-instagram">Instagram</div>
+    <a href="{{ route('home') }}">
+        <div class="pt-5 mb-8 text-4xl font-instagram">Instagram</div>
+    </a>
 
     <div class="flex flex-col space-y-2 flex-grow">
         <a href="{{ route('home') }}" class="nav-item flex items-center gap-3 py-3 rounded-lg hover:bg-gray-900 cursor-pointer">
@@ -17,15 +19,12 @@
             <div class="text-lg">Explore</div>
         </a>
 
-        <a href="{{ route('messages') }}" class="nav-item flex items-center gap-3 py-3 rounded-lg hover:bg-gray-900 cursor-pointer">
+        <a href="{{ route('direct.blank') }}" class="nav-item flex items-center gap-3 py-3 rounded-lg hover:bg-gray-900 cursor-pointer">
             <div class="text-xl">✉️</div>
             <div class="text-lg">Messages</div>
         </a>
 
-        <a href="{{ route('notifications') }}" class="nav-item flex items-center gap-3 py-3 rounded-lg hover:bg-gray-900 cursor-pointer">
-            <div class="text-xl">❤️</div>
-            <div class="text-lg">Notifications</div>
-        </a>
+
 
         <a href="{{ route('members') }}" class="nav-item flex items-center gap-3 py-3 rounded-lg hover:bg-gray-900 cursor-pointer">
             <div class="text-xl">👤</div>

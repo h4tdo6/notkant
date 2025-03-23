@@ -22,8 +22,28 @@ class NavigationController extends Controller
         return view('navigation.messages');
     }
 
-    public function notifications() {
-        return view('navigation.notifications');
+    public function blankMessage() {
+        return view('direct.blank');
+    }
+
+    public function aquinasMessage() {
+        return view('direct.aquinas');
+    }
+
+    public function aristotleMessage() {
+        return view('direct.aristotle');
+    }
+
+    public function blankRequest() {
+        return view('requests.blank');
+    }
+
+    public function platoRequest() {
+        return view('requests.plato');
+    }
+
+    public function socratesRequest() {
+        return view('requests.socrates');
     }
 
     public function members() {
