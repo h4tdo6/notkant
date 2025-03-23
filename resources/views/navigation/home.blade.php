@@ -21,7 +21,7 @@
 
                     <div class="flex mb-5 text-gray-500 text-base">
                         <div class="mr-8">
-                            <strong class="text-white">3</strong> posts
+                            <strong class="text-white">15</strong> posts
                         </div>
                         <div class="mr-8">
                             <strong class="text-white">137m</strong> followers

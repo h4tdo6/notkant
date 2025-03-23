@@ -23,7 +23,7 @@ class NavigationController extends Controller
     }
 
     public function blankMessage() {
-        return view('direct.blank');
+        return view('message-tabs.direct');
     }
 
     public function aquinasMessage() {

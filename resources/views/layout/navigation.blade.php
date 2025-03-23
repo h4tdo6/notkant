@@ -24,8 +24,6 @@
             <div class="text-lg">Messages</div>
         </a>
 
-
-
         <a href="{{ route('members') }}" class="nav-item flex items-center gap-3 py-3 rounded-lg hover:bg-gray-900 cursor-pointer">
             <div class="text-xl">👤</div>
             <div class="text-lg">Members</div>

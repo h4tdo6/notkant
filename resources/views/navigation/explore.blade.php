@@ -33,7 +33,7 @@
                         <img src="{{ asset('assets/kant-profile.jpg') }}" alt="Kant Profile" class="w-full h-full object-cover" onerror="this.src='https://via.placeholder.com/40'">
                     </div>
                     <div class="font-semibold">KantStopThinking</div>
-                    <div class="ml-auto text-gray-500 text-sm">Module 1</div>
+                    <div class="ml-auto text-gray-500 text-sm">Module 10</div>
                 </div>
 
                 <div class="border-b border-gray-800 pb-4">
