@@ -22,7 +22,7 @@
             <div class="aspect-w-16 aspect-h-9 bg-gradient-to-r from-blue-900 to-purple-900 flex items-center justify-center">
                 <div class="text-center p-8">
                     <h1 class="text-2xl font-bold mb-2">Kantian Ethics</h1>
-                    <p class="text-gray-300">Ethics Module</p>
+                    <p class="text-gray-300">Philosophy Module</p>
                 </div>
             </div>
 
@@ -33,7 +33,7 @@
                         <img src="{{ asset('assets/kant-profile.jpg') }}" alt="Kant Profile" class="w-full h-full object-cover" onerror="this.src='https://via.placeholder.com/40'">
                     </div>
                     <div class="font-semibold">KantStopThinking</div>
-                    <div class="ml-auto text-gray-500 text-sm">Module 10</div>
+                    <div class="ml-auto text-gray-500 text-sm">Module 1</div>
                 </div>
 
                 <div class="border-b border-gray-800 pb-4">
@@ -95,34 +95,63 @@
             <h3 class="mb-3 text-gray-400 font-semibold">You might also like</h3>
             <div class="grid grid-cols-2 gap-4">
                 <div class="border border-gray-800 rounded-lg overflow-hidden">
-                    <div class="aspect-w-1 aspect-h-1 bg-gradient-to-br from-indigo-900 to-purple-900 flex items-center justify-center">
-                        <span class="text-lg font-bold">IMMANUEL KANT'S TREATISE ON VIRTUES</span>
+                    <div class="aspect-w-1 aspect-h-1 bg-gradient-to-br from-blue-600 to-purple-600 flex items-center justify-center p-4 text-center">
+                        <span class="text-lg font-bold text-white">IMMANUEL KANT'S TREATISE ON VIRTUES</span>
                     </div>
                     <div class="p-2">
+                        {{-- <div class="text-sm font-semibold">Module 2</div> --}}
                         <div class="text-xs text-gray-500">3 learning outcomes</div>
                     </div>
                 </div>
                 <div class="border border-gray-800 rounded-lg overflow-hidden">
-                    <div class="aspect-w-1 aspect-h-1 bg-gradient-to-br from-red-900 to-purple-900 flex items-center justify-center">
-                        <span class="text-lg font-bold">GOODWILL</span>
+                    <div class="aspect-w-1 aspect-h-1 bg-gradient-to-br from-pink-600 to-purple-600 flex items-center justify-center p-4 text-center">
+                        <span class="text-lg font-bold text-white">GOODWILL</span>
                     </div>
                     <div class="p-2">
+                        {{-- <div class="text-sm font-semibold">Module 2</div> --}}
                         <div class="text-xs text-gray-500">4 learning outcomes</div>
                     </div>
                 </div>
                 <div class="border border-gray-800 rounded-lg overflow-hidden">
-                    <div class="aspect-w-1 aspect-h-1 bg-gradient-to-br from-green-900 to-blue-900 flex items-center justify-center">
-                        <span class="text-lg font-bold">Categorical Imperative:
-                            The Three Formulations of the Categorical Imperative
-                            </span>
+                    <div class="aspect-w-1 aspect-h-1 bg-gradient-to-br from-teal-600 to-blue-600 flex items-center justify-center p-4 text-center">
+                        <span class="text-lg font-bold text-white">CATEGORICAL IMPERATIVE</span>
                     </div>
                     <div class="p-2">
+                        {{-- <div class="text-sm font-semibold">Module 2</div> --}}
                         <div class="text-xs text-gray-500">4 learning outcomes</div>
                     </div>
                 </div>
             </div>
         </div>
+
+
+        <!-- Related Modules (Instagram suggestions style) -->
+        {{-- <div class="mt-6">
+            <h3 class="mb-3 text-gray-400 font-semibold">You might also like</h3>
+            <div class="grid grid-cols-2 gap-4">
+                <div class="border border-gray-800 rounded-lg overflow-hidden">
+                    <div class="aspect-w-1 aspect-h-1 bg-gradient-to-br from-indigo-900 to-purple-900 flex items-center justify-center">
+                        <span class="text-lg font-bold">Utilitarianism</span>
+                    </div>
+                    <div class="p-2">
+                        <div class="text-sm font-semibold">Module 2</div>
+                        <div class="text-xs text-gray-500">3 learning outcomes</div>
+                    </div>
+                </div>
+                <div class="border border-gray-800 rounded-lg overflow-hidden">
+                    <div class="aspect-w-1 aspect-h-1 bg-gradient-to-br from-red-900 to-purple-900 flex items-center justify-center">
+                        <span class="text-lg font-bold">Virtue Ethics</span>
+                    </div>
+                    <div class="p-2">
+                        <div class="text-sm font-semibold">Module 3</div>
+                        <div class="text-xs text-gray-500">4 learning outcomes</div>
+                    </div>
+                </div>
+            </div>
+        </div> --}}
     </div>
+
+
 </div>
 
 @endsection

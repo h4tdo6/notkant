@@ -30,6 +30,7 @@
                     </div>
 
                     <div class="font-semibold">Immanuel Kant</div>
+                    <div class="text-sm">Philosopher</div>
                 </div>
             </div>
 
